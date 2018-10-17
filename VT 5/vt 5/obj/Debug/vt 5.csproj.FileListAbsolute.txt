@@ -1,0 +1,20 @@
+C:\programa em C#\vt 5\vt 5\vt 5\bin\Debug\vt 5.exe.config
+C:\programa em C#\vt 5\vt 5\vt 5\bin\Debug\vt 5.exe
+C:\programa em C#\vt 5\vt 5\vt 5\bin\Debug\vt 5.pdb
+C:\programa em C#\vt 5\vt 5\vt 5\obj\Debug\vt 5.csprojResolveAssemblyReference.cache
+C:\programa em C#\vt 5\vt 5\vt 5\obj\Debug\vt_5.Form1.resources
+C:\programa em C#\vt 5\vt 5\vt 5\obj\Debug\vt_5.Properties.Resources.resources
+C:\programa em C#\vt 5\vt 5\vt 5\obj\Debug\vt 5.csproj.GenerateResource.Cache
+C:\programa em C#\vt 5\vt 5\vt 5\obj\Debug\vt 5.csproj.CoreCompileInputs.cache
+C:\programa em C#\vt 5\vt 5\vt 5\obj\Debug\vt 5.exe
+C:\programa em C#\vt 5\vt 5\vt 5\obj\Debug\vt 5.pdb
+C:\Users\Zupper\Documents\vt 5 gabrielle\vt 5\bin\Debug\vt 5.exe.config
+C:\Users\Zupper\Documents\vt 5 gabrielle\vt 5\bin\Debug\vt 5.exe
+C:\Users\Zupper\Documents\vt 5 gabrielle\vt 5\bin\Debug\vt 5.pdb
+C:\Users\Zupper\Documents\vt 5 gabrielle\vt 5\obj\Debug\vt 5.csprojAssemblyReference.cache
+C:\Users\Zupper\Documents\vt 5 gabrielle\vt 5\obj\Debug\vt_5.Form1.resources
+C:\Users\Zupper\Documents\vt 5 gabrielle\vt 5\obj\Debug\vt_5.Properties.Resources.resources
+C:\Users\Zupper\Documents\vt 5 gabrielle\vt 5\obj\Debug\vt 5.csproj.GenerateResource.cache
+C:\Users\Zupper\Documents\vt 5 gabrielle\vt 5\obj\Debug\vt 5.csproj.CoreCompileInputs.cache
+C:\Users\Zupper\Documents\vt 5 gabrielle\vt 5\obj\Debug\vt 5.exe
+C:\Users\Zupper\Documents\vt 5 gabrielle\vt 5\obj\Debug\vt 5.pdb

@@ -1,0 +1,35 @@
+C:\Users\pauli\OneDrive\Documents\Visual Studio 2010\Projects\vt_03\vt_03\obj\x86\Debug\vt_03.Form1.resources
+C:\Users\pauli\OneDrive\Documents\Visual Studio 2010\Projects\vt_03\vt_03\obj\x86\Debug\vt_03.Properties.Resources.resources
+C:\Users\pauli\OneDrive\Documents\Visual Studio 2010\Projects\vt_03\vt_03\obj\x86\Debug\vt_03.csproj.GenerateResource.Cache
+C:\Users\pauli\OneDrive\Documents\Visual Studio 2010\Projects\vt_03\vt_03\bin\Debug\vt_03.exe
+C:\Users\pauli\OneDrive\Documents\Visual Studio 2010\Projects\vt_03\vt_03\bin\Debug\vt_03.pdb
+C:\Users\pauli\OneDrive\Documents\Visual Studio 2010\Projects\vt_03\vt_03\obj\x86\Debug\vt_03.exe
+C:\Users\pauli\OneDrive\Documents\Visual Studio 2010\Projects\vt_03\vt_03\obj\x86\Debug\vt_03.pdb
+D:\Exercicos Angela\vt_03\vt_03\obj\x86\Debug\vt_03.exe
+D:\Exercicos Angela\vt_03\vt_03\obj\x86\Debug\vt_03.pdb
+D:\Exercicos Angela\vt_03\vt_03\bin\Debug\vt_03.exe
+D:\Exercicos Angela\vt_03\vt_03\bin\Debug\vt_03.pdb
+D:\Exercicos Angela\vt_03\vt_03\obj\x86\Debug\vt_03.Form1.resources
+D:\Exercicos Angela\vt_03\vt_03\obj\x86\Debug\vt_03.Properties.Resources.resources
+D:\Exercicos Angela\vt_03\vt_03\obj\x86\Debug\vt_03.csproj.GenerateResource.Cache
+D:\Exercicos Angela\vt_03\vt_03\obj\x86\Debug\vt_03.csprojResolveAssemblyReference.cache
+E:\Exercicos Angela\vt_03\vt_03\obj\x86\Debug\vt_03.exe
+E:\Exercicos Angela\vt_03\vt_03\obj\x86\Debug\vt_03.pdb
+E:\Exercicos Angela\vt_03\vt_03\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Exercicos Angela\vt_03\vt_03\obj\x86\Debug\vt_03.Form1.resources
+E:\Exercicos Angela\vt_03\vt_03\obj\x86\Debug\vt_03.Properties.Resources.resources
+E:\Exercicos Angela\vt_03\vt_03\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Exercicos Angela\vt_03\vt_03\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Exercicos Angela\vt_03\vt_03\bin\Debug\vt_03.exe
+E:\Exercicos Angela\vt_03\vt_03\bin\Debug\vt_03.pdb
+F:\Exercicos Angela\vt_03\vt_03\obj\x86\Debug\vt_03.exe
+F:\Exercicos Angela\vt_03\vt_03\obj\x86\Debug\vt_03.pdb
+C:\Users\Zupper\Documents\vt_03\bin\Debug\vt_03.exe
+C:\Users\Zupper\Documents\vt_03\bin\Debug\vt_03.pdb
+C:\Users\Zupper\Documents\vt_03\obj\x86\Debug\vt_03.csprojAssemblyReference.cache
+C:\Users\Zupper\Documents\vt_03\obj\x86\Debug\vt_03.Form1.resources
+C:\Users\Zupper\Documents\vt_03\obj\x86\Debug\vt_03.Properties.Resources.resources
+C:\Users\Zupper\Documents\vt_03\obj\x86\Debug\vt_03.csproj.GenerateResource.cache
+C:\Users\Zupper\Documents\vt_03\obj\x86\Debug\vt_03.csproj.CoreCompileInputs.cache
+C:\Users\Zupper\Documents\vt_03\obj\x86\Debug\vt_03.exe
+C:\Users\Zupper\Documents\vt_03\obj\x86\Debug\vt_03.pdb

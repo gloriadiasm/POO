@@ -1,0 +1,30 @@
+C:\Users\bbtca\Desktop\Unitriste\Visual Studio\Angela C# (Orientada a Objetos)\Visual Studio(Forms)\Exercicio 2 vt2\Exercicio 2 vt2\obj\Debug\Exercicio 2 vt2.csprojAssemblyReference.cache
+C:\Users\bbtca\Desktop\Unitriste\Visual Studio\Angela C# (Orientada a Objetos)\Visual Studio(Forms)\Exercicio 2 vt2\Exercicio 2 vt2\obj\Debug\Exercicio_2_vt2.Form1.resources
+C:\Users\bbtca\Desktop\Unitriste\Visual Studio\Angela C# (Orientada a Objetos)\Visual Studio(Forms)\Exercicio 2 vt2\Exercicio 2 vt2\obj\Debug\Exercicio_2_vt2.Properties.Resources.resources
+C:\Users\bbtca\Desktop\Unitriste\Visual Studio\Angela C# (Orientada a Objetos)\Visual Studio(Forms)\Exercicio 2 vt2\Exercicio 2 vt2\obj\Debug\Exercicio 2 vt2.csproj.GenerateResource.cache
+C:\Users\bbtca\Desktop\Unitriste\Visual Studio\Angela C# (Orientada a Objetos)\Visual Studio(Forms)\Exercicio 2 vt2\Exercicio 2 vt2\obj\Debug\Exercicio 2 vt2.csproj.CoreCompileInputs.cache
+C:\Users\bbtca\Desktop\Unitriste\Visual Studio\Angela C# (Orientada a Objetos)\Visual Studio(Forms)\Exercicio 2 vt2\Exercicio 2 vt2\bin\Debug\Exercicio 2 vt2.exe.config
+C:\Users\bbtca\Desktop\Unitriste\Visual Studio\Angela C# (Orientada a Objetos)\Visual Studio(Forms)\Exercicio 2 vt2\Exercicio 2 vt2\bin\Debug\Exercicio 2 vt2.exe
+C:\Users\bbtca\Desktop\Unitriste\Visual Studio\Angela C# (Orientada a Objetos)\Visual Studio(Forms)\Exercicio 2 vt2\Exercicio 2 vt2\bin\Debug\Exercicio 2 vt2.pdb
+C:\Users\bbtca\Desktop\Unitriste\Visual Studio\Angela C# (Orientada a Objetos)\Visual Studio(Forms)\Exercicio 2 vt2\Exercicio 2 vt2\obj\Debug\Exercicio 2 vt2.exe
+C:\Users\bbtca\Desktop\Unitriste\Visual Studio\Angela C# (Orientada a Objetos)\Visual Studio(Forms)\Exercicio 2 vt2\Exercicio 2 vt2\obj\Debug\Exercicio 2 vt2.pdb
+G:\Unitriste\Laborátorio de POO\Exercicio 2 vt2\bin\Debug\Exercicio 2 vt2.exe.config
+G:\Unitriste\Laborátorio de POO\Exercicio 2 vt2\bin\Debug\Exercicio 2 vt2.exe
+G:\Unitriste\Laborátorio de POO\Exercicio 2 vt2\bin\Debug\Exercicio 2 vt2.pdb
+G:\Unitriste\Laborátorio de POO\Exercicio 2 vt2\obj\Debug\Exercicio 2 vt2.csprojAssemblyReference.cache
+G:\Unitriste\Laborátorio de POO\Exercicio 2 vt2\obj\Debug\Exercicio_2_vt2.Form1.resources
+G:\Unitriste\Laborátorio de POO\Exercicio 2 vt2\obj\Debug\Exercicio_2_vt2.Properties.Resources.resources
+G:\Unitriste\Laborátorio de POO\Exercicio 2 vt2\obj\Debug\Exercicio 2 vt2.csproj.GenerateResource.cache
+G:\Unitriste\Laborátorio de POO\Exercicio 2 vt2\obj\Debug\Exercicio 2 vt2.csproj.CoreCompileInputs.cache
+G:\Unitriste\Laborátorio de POO\Exercicio 2 vt2\obj\Debug\Exercicio 2 vt2.exe
+G:\Unitriste\Laborátorio de POO\Exercicio 2 vt2\obj\Debug\Exercicio 2 vt2.pdb
+C:\Users\Zupper\Documents\Unitriste\Laborátorio de POO\VT 2\Exercicio 2 vt2\bin\Debug\Exercicio 2 vt2.exe.config
+C:\Users\Zupper\Documents\Unitriste\Laborátorio de POO\VT 2\Exercicio 2 vt2\bin\Debug\Exercicio 2 vt2.exe
+C:\Users\Zupper\Documents\Unitriste\Laborátorio de POO\VT 2\Exercicio 2 vt2\bin\Debug\Exercicio 2 vt2.pdb
+C:\Users\Zupper\Documents\Unitriste\Laborátorio de POO\VT 2\Exercicio 2 vt2\obj\Debug\Exercicio 2 vt2.csprojAssemblyReference.cache
+C:\Users\Zupper\Documents\Unitriste\Laborátorio de POO\VT 2\Exercicio 2 vt2\obj\Debug\Exercicio_2_vt2.Form1.resources
+C:\Users\Zupper\Documents\Unitriste\Laborátorio de POO\VT 2\Exercicio 2 vt2\obj\Debug\Exercicio_2_vt2.Properties.Resources.resources
+C:\Users\Zupper\Documents\Unitriste\Laborátorio de POO\VT 2\Exercicio 2 vt2\obj\Debug\Exercicio 2 vt2.csproj.GenerateResource.cache
+C:\Users\Zupper\Documents\Unitriste\Laborátorio de POO\VT 2\Exercicio 2 vt2\obj\Debug\Exercicio 2 vt2.csproj.CoreCompileInputs.cache
+C:\Users\Zupper\Documents\Unitriste\Laborátorio de POO\VT 2\Exercicio 2 vt2\obj\Debug\Exercicio 2 vt2.exe
+C:\Users\Zupper\Documents\Unitriste\Laborátorio de POO\VT 2\Exercicio 2 vt2\obj\Debug\Exercicio 2 vt2.pdb
