@@ -1,0 +1,20 @@
+C:\Users\alonso\source\repos\angela\VT 2\VT 2 - exe 3\VT 2 - exe 3\bin\Debug\VT 2 - exe 3.exe.config
+C:\Users\alonso\source\repos\angela\VT 2\VT 2 - exe 3\VT 2 - exe 3\bin\Debug\VT 2 - exe 3.exe
+C:\Users\alonso\source\repos\angela\VT 2\VT 2 - exe 3\VT 2 - exe 3\bin\Debug\VT 2 - exe 3.pdb
+C:\Users\alonso\source\repos\angela\VT 2\VT 2 - exe 3\VT 2 - exe 3\obj\Debug\VT 2 - exe 3.csprojAssemblyReference.cache
+C:\Users\alonso\source\repos\angela\VT 2\VT 2 - exe 3\VT 2 - exe 3\obj\Debug\VT_2___exe_3.Form1.resources
+C:\Users\alonso\source\repos\angela\VT 2\VT 2 - exe 3\VT 2 - exe 3\obj\Debug\VT_2___exe_3.Properties.Resources.resources
+C:\Users\alonso\source\repos\angela\VT 2\VT 2 - exe 3\VT 2 - exe 3\obj\Debug\VT 2 - exe 3.csproj.GenerateResource.cache
+C:\Users\alonso\source\repos\angela\VT 2\VT 2 - exe 3\VT 2 - exe 3\obj\Debug\VT 2 - exe 3.csproj.CoreCompileInputs.cache
+C:\Users\alonso\source\repos\angela\VT 2\VT 2 - exe 3\VT 2 - exe 3\obj\Debug\VT 2 - exe 3.exe
+C:\Users\alonso\source\repos\angela\VT 2\VT 2 - exe 3\VT 2 - exe 3\obj\Debug\VT 2 - exe 3.pdb
+C:\Users\Zupper\Documents\Unitriste\Laborátorio de POO\VT 2\3\VT 2 - exe 3\bin\Debug\VT 2 - exe 3.exe.config
+C:\Users\Zupper\Documents\Unitriste\Laborátorio de POO\VT 2\3\VT 2 - exe 3\bin\Debug\VT 2 - exe 3.exe
+C:\Users\Zupper\Documents\Unitriste\Laborátorio de POO\VT 2\3\VT 2 - exe 3\bin\Debug\VT 2 - exe 3.pdb
+C:\Users\Zupper\Documents\Unitriste\Laborátorio de POO\VT 2\3\VT 2 - exe 3\obj\Debug\VT 2 - exe 3.csprojAssemblyReference.cache
+C:\Users\Zupper\Documents\Unitriste\Laborátorio de POO\VT 2\3\VT 2 - exe 3\obj\Debug\VT_2___exe_3.Form1.resources
+C:\Users\Zupper\Documents\Unitriste\Laborátorio de POO\VT 2\3\VT 2 - exe 3\obj\Debug\VT_2___exe_3.Properties.Resources.resources
+C:\Users\Zupper\Documents\Unitriste\Laborátorio de POO\VT 2\3\VT 2 - exe 3\obj\Debug\VT 2 - exe 3.csproj.GenerateResource.cache
+C:\Users\Zupper\Documents\Unitriste\Laborátorio de POO\VT 2\3\VT 2 - exe 3\obj\Debug\VT 2 - exe 3.csproj.CoreCompileInputs.cache
+C:\Users\Zupper\Documents\Unitriste\Laborátorio de POO\VT 2\3\VT 2 - exe 3\obj\Debug\VT 2 - exe 3.exe
+C:\Users\Zupper\Documents\Unitriste\Laborátorio de POO\VT 2\3\VT 2 - exe 3\obj\Debug\VT 2 - exe 3.pdb

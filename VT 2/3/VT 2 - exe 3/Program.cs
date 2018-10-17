@@ -4,12 +4,12 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace _3
+namespace VT_2___exe_3
 {
     static class Program
     {
         /// <summary>
-        /// Ponto de entrada principal para o aplicativo.
+        /// The main entry point for the application.
         /// </summary>
         [STAThread]
         static void Main()

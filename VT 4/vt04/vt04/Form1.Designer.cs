@@ -1,4 +1,4 @@
-﻿namespace _3
+﻿namespace vt04
 {
     partial class Form1
     {
